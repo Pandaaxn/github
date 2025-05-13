@@ -10,6 +10,11 @@ namespace github
     {
         static void Main(string[] args)
         {
+            //Diane Gutiérrez 
+            while (true)
+            {
+                
+            }
         }
     }
 }
